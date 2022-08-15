@@ -1,0 +1,16 @@
+{
+    "prepocessed_feature": {
+        "pre-aligned": {
+            "train_Audio": "./dataset/prepocessed_feature/A_data_train.csv",
+            "dev_Audio": "./dataset/prepocessed_feature/A_data_dev.csv",
+            "test_Audio": "./dataset/prepocessed_feature/A_data_test.csv",
+            "train_Visual": "./dataset/prepocessed_feature/V_data_train.csv",
+            "dev_Visual": "./dataset/prepocessed_feature/V_data_dev.csv",
+            "test_Visual": "./dataset/prepocessed_feature/V_data_test.csv",
+            "train_label": "./dataset/prepocessed_feature/label_train.csv",
+            "train_instance": "./dataset/prepocessed_feature/inst_train.csv",
+            "dev_label": "./dataset/prepocessed_feature/label_dev.csv",
+            "dev_instance": "./dataset/prepocessed_feature/inst_dev.csv"
+        }
+     }	
+}
